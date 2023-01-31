@@ -114,7 +114,7 @@ void quick_sort(int *array, int s, int e)
 int main()
 {
     int array[17] = {2, 5, 7, 4, 3, 1, 9, 8, 6, 7, 11, 4, 6, 9, 2, 1, 72};
-    int n = 17;
+    int n = 18;
     // selection_sort(array, n);
     // bubble_sort(array,n);
     //insertion_sort(array, n);
